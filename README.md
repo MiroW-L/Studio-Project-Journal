@@ -10,7 +10,7 @@ I am feeling quite down after seeing my grade for the workshops assignment, I am
 This is Leo's feedback which I will be using as guidance for what improvements I can make for my documentation of my coding work. It's going to be helpful because I kniw what is going to give me bette odds at both getting a higher grade and making something that I feel proud of.
 
 ![image](https://github.com/user-attachments/assets/12233aa4-c41e-4439-9d1a-fe17ea01e4b9)
-Remember to use this when I record code.
+Remember to use this when I record code. Also use [Github Basic Writing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code) and [p.5js Tutorials](https://p5js.org/tutorials/)
 
 ### Moving On
 What I am going to do today to get started on this first week of work is read the book on interactivity and write that refleaction out today. Then afterwards I will coem back here and say what ideas it inspired within me and then might start a plan for what direction my coding will will go in.
